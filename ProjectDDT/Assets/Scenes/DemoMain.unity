@@ -960,13 +960,13 @@ RectTransform:
   - {fileID: 1060332356}
   - {fileID: 682799641}
   - {fileID: 299719650}
-  m_Father: {fileID: 558463772}
+  m_Father: {fileID: 1411238081}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 513.5, y: -24}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: -438.8, y: -6.799988}
   m_SizeDelta: {x: 93, y: 34}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.49999964, y: 0.9999985}
 --- !u!114 &20103356
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -988,7 +988,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0, g: 0, b: 0, a: 1}
+    m_NormalColor: {r: 0.09, g: 0.09, b: 0.09, a: 1}
     m_HighlightedColor: {r: 0.06666667, g: 0.41960785, b: 0.5647059, a: 1}
     m_PressedColor: {r: 0.23899364, g: 0.23899364, b: 0.23899364, a: 1}
     m_SelectedColor: {r: 0, g: 0, b: 0, a: 1}
@@ -13890,13 +13890,13 @@ RectTransform:
   - {fileID: 1914301912}
   - {fileID: 202569780}
   - {fileID: 1750713470}
-  m_Father: {fileID: 558463772}
+  m_Father: {fileID: 1411238081}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 290, y: -174}
-  m_SizeDelta: {x: 1098, y: 432.246}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 290.00006, y: -497.87698}
+  m_SizeDelta: {x: 1098, y: 432.24597}
+  m_Pivot: {x: 0.5, y: 0.99999994}
 --- !u!114 &552504456
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14025,13 +14025,7 @@ RectTransform:
   m_Children:
   - {fileID: 2123859879}
   - {fileID: 1624799951}
-  - {fileID: 659735326}
-  - {fileID: 1395338582}
-  - {fileID: 20103355}
-  - {fileID: 901442059}
-  - {fileID: 552504455}
-  - {fileID: 978426837}
-  - {fileID: 1016822566}
+  - {fileID: 1411238081}
   m_Father: {fileID: 2004948466}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -15566,13 +15560,13 @@ RectTransform:
   - {fileID: 1357559362}
   - {fileID: 1876365224}
   - {fileID: 507192054}
-  m_Father: {fileID: 558463772}
+  m_Father: {fileID: 1411238081}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 254, y: -540}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 177.00108, y: 0}
   m_SizeDelta: {x: 154, y: 1080}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.00000039488077, y: 0.5}
 --- !u!1 &662839677
 GameObject:
   m_ObjectHideFlags: 0
@@ -21140,13 +21134,13 @@ RectTransform:
   - {fileID: 1916911494}
   - {fileID: 2051724341}
   - {fileID: 373317899}
-  m_Father: {fileID: 558463772}
+  m_Father: {fileID: 1411238081}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 290, y: 272}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 290, y: -82.50012}
   m_SizeDelta: {x: 1098, y: 371}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0.9999998}
 --- !u!114 &901442060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23148,13 +23142,13 @@ RectTransform:
   - {fileID: 1386021229}
   - {fileID: 1954130989}
   - {fileID: 242363482}
-  m_Father: {fileID: 558463772}
+  m_Father: {fileID: 1411238081}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -292, y: -223}
+  m_AnchoredPosition: {x: -344, y: -172.99985}
   m_SizeDelta: {x: 520, y: 306}
-  m_Pivot: {x: 0.5, y: 0.8822341}
+  m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &978426839
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23830,13 +23824,13 @@ RectTransform:
   - {fileID: 1367003450}
   - {fileID: 1821284837}
   - {fileID: 1983442251}
-  m_Father: {fileID: 558463772}
+  m_Father: {fileID: 1411238081}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1061, y: -540}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: -238.5}
   m_SizeDelta: {x: 924, y: 603}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0.99999994}
 --- !u!114 &1016822567
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31909,13 +31903,13 @@ RectTransform:
   - {fileID: 1393601885}
   - {fileID: 966430921}
   - {fileID: 2030967401}
-  m_Father: {fileID: 558463772}
+  m_Father: {fileID: 1411238081}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 88.5, y: -540}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: -0.000061035156, y: 0}
   m_SizeDelta: {x: 177, y: 1080}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: -0.00000016078508, y: 0.5}
 --- !u!1 &1409168976
 GameObject:
   m_ObjectHideFlags: 0
@@ -31991,6 +31985,48 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1409168976}
   m_CullTransparentMesh: 1
+--- !u!1 &1411238080
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1411238081}
+  m_Layer: 5
+  m_Name: 1080Frame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1411238081
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1411238080}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 659735326}
+  - {fileID: 1395338582}
+  - {fileID: 20103355}
+  - {fileID: 901442059}
+  - {fileID: 552504455}
+  - {fileID: 978426837}
+  - {fileID: 1016822566}
+  m_Father: {fileID: 558463772}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 1920, y: 1080}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1414375098
 GameObject:
   m_ObjectHideFlags: 0
@@ -44862,7 +44898,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2004948466}
-  - component: {fileID: 2004948465}
   - component: {fileID: 2004948464}
   - component: {fileID: 2004948463}
   - component: {fileID: 2004948467}
@@ -44913,445 +44948,6 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
---- !u!114 &2004948465
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2004948462}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cb50b5b4038022744b7d09fe41d03007, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  importController:
-    monoBeh: {fileID: 2004948465}
-  canvasDrawer:
-    monoBeh: {fileID: 2004948465}
-    imageDrawer:
-      monoBeh: {fileID: 2004948465}
-      unityImageDrawer:
-        monoBeh: {fileID: 2004948465}
-      spriteRendererDrawer:
-        monoBeh: {fileID: 0}
-    textDrawer:
-      monoBeh: {fileID: 2004948465}
-      unityTextDrawer:
-        monoBeh: {fileID: 0}
-      textMeshDrawer:
-        monoBeh: {fileID: 2004948465}
-    autoLayoutDrawer:
-      monoBeh: {fileID: 0}
-      gridLayoutDrawer:
-        monoBeh: {fileID: 0}
-      vertLayoutDrawer:
-        monoBeh: {fileID: 0}
-      horLayoutDrawer:
-        monoBeh: {fileID: 0}
-      layoutElementDrawer:
-        monoBeh: {fileID: 0}
-    contentSizeFitterDrawer:
-      monoBeh: {fileID: 2004948465}
-    aspectRatioFitterDrawer:
-      monoBeh: {fileID: 0}
-    maskDrawer:
-      monoBeh: {fileID: 2004948465}
-    toggleDrawer:
-      monoBeh: {fileID: 2004948465}
-    buttonDrawer:
-      monoBeh: {fileID: 2004948465}
-      ubDrawer:
-        monoBeh: {fileID: 2004948465}
-    scriptGenerator:
-      monoBeh: {fileID: 0}
-    inputFieldDrawer:
-      monoBeh: {fileID: 2004948465}
-    scrollViewDrawer:
-      monoBeh: {fileID: 2004948465}
-    localizationDrawer:
-      monoBeh: {fileID: 2004948465}
-      dalDrawer:
-        monoBeh: {fileID: 0}
-    shadowDrawer:
-      monoBeh: {fileID: 0}
-    canvasGroupDrawer:
-      monoBeh: {fileID: 0}
-    gameObjectDrawer:
-      monoBeh: {fileID: 2004948465}
-  projectCacher:
-    monoBeh: {fileID: 2004948465}
-  hashCacher:
-    monoBeh: {fileID: 2004948465}
-  projectDownloader:
-    monoBeh: {fileID: 2004948465}
-  imageTypeSetter:
-    monoBeh: {fileID: 2004948465}
-  duplicateFinder:
-    monoBeh: {fileID: 2004948465}
-  scriptGenerator:
-    monoBeh: {fileID: 0}
-  delegateHolder:
-    monoBeh: {fileID: 2004948465}
-  settings:
-    monoBeh: {fileID: 2004948465}
-    mainSettings:
-      monoBeh: {fileID: 2004948465}
-      uiFramework: 0
-      positioningMode: 0
-      pivotType: 4
-      goLayer: 5
-      rawImport: 0
-      https: 1
-      gameObjectNameMaxLength: 32
-      textObjectNameMaxLength: 30
-      allowedNameChars: 5f002000280029003d002e002d005b005d002b00
-      windowMode: 0
-      projectUrl: 6IFqxhwp92KNFncvvnzmIJ
-    uitkSettings:
-      monoBeh: {fileID: 0}
-      uitkOutputPath: Assets\UITK Output
-    imageSpritesSettings:
-      monoBeh: {fileID: 2004948465}
-      proceduralCondition: 3
-      svgCondition: 3
-      imageComponent: 0
-      downloadOptions: 5
-      redownloadSprites: 0
-      spritesPath: Assets\Sprites
-      imageFormat: 0
-      imageScale: 4
-      maxSpriteSize: {x: 4096, y: 4096}
-      preserveRatioMode: 0
-      pixelsPerUnit: 100
-      useImageLinearMaterial: 1
-    textureImporterSettings:
-      monoBeh: {fileID: 2004948465}
-      crunchedCompression: 0
-      compressionQuality: 100
-      isReadable: 1
-      mipmapEnabled: 0
-      textureType: 8
-      textureCompression: 0
-      spriteImportMode: 1
-    shadowSettings:
-      monoBeh: {fileID: 0}
-      shadowComponent: 0
-    buttonSettings:
-      monoBeh: {fileID: 2004948465}
-      buttonComponent: 0
-      unityButtonSettings:
-        monoBeh: {fileID: 2004948465}
-        normalColor: {r: 1, g: 1, b: 1, a: 1}
-        highlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-        pressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-        selectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-        disabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
-        colorMultiplier: 1
-        fadeDuration: 0.1
-      transition: 0
-    locSettings:
-      monoBeh: {fileID: 2004948465}
-      locComponent: 0
-      locKeyCaseType: 0
-      currentFigmaLayoutCulture: en-US
-      locKeyMaxLenght: 24
-      localizator: {fileID: 0}
-      locFolderPath: Assets\Resources\Localizations
-      locFileName: Localization.csv
-      csvSeparator: 59
-    scriptGenSettings:
-      monoBeh: {fileID: 2004948465}
-      serializationMode: 0
-      namespace: MyNamespace
-      baseClass: MonoBehaviour
-      outputPath: Assets\GeneratedScripts
-      fieldNameMaxLenght: 16
-      methodNameMaxLenght: 16
-      classNameMaxLenght: 16
-    novaSettings:
-      monoBeh: {fileID: 0}
-      inputTexture: {fileID: 0}
-    joshPuiSettings:
-      monoBeh: {fileID: 0}
-      type: 0
-      raycastTarget: 1
-      preserveAspect: 1
-      raycastPadding: {x: 0, y: 0, z: 0, w: 0}
-      maskable: 1
-      falloffDistance: 1
-    mpuikitSettings:
-      monoBeh: {fileID: 0}
-      type: 0
-      raycastTarget: 1
-      preserveAspect: 1
-      raycastPadding: {x: 0, y: 0, z: 0, w: 0}
-      maskable: 1
-      falloffDistance: 0.5
-    dttPuiSettings:
-      monoBeh: {fileID: 0}
-      type: 0
-      raycastTarget: 1
-      preserveAspect: 1
-      raycastPadding: {x: 0, y: 0, z: 0, w: 0}
-      maskable: 1
-      falloffDistance: 1
-    svgImageSettings:
-      monoBeh: {fileID: 0}
-      raycastTarget: 1
-      preserveAspect: 1
-      raycastPadding: {x: 0, y: 0, z: 0, w: 0}
-    svgImporterSettings:
-      monoBeh: {fileID: 0}
-      gradientResolution: 64
-      customPivot: {x: 0.5, y: 0.5}
-      generatePhysicsShape: 0
-      stepDistance: 1
-      samplingSteps: 3
-      advancedMode: 1
-      maxCordDeviationEnabled: 0
-      maxCordDeviation: 1
-      maxTangentAngleEnabled: 0
-      maxTangentAngle: 5
-    unityImageSettings:
-      monoBeh: {fileID: 2004948465}
-      type: 0
-      raycastTarget: 1
-      preserveAspect: 1
-      raycastPadding: {x: 0, y: 0, z: 0, w: 0}
-      maskable: 1
-    rawImageSettings:
-      monoBeh: {fileID: 0}
-      type: 0
-      raycastTarget: 1
-      preserveAspect: 1
-      raycastPadding: {x: 0, y: 0, z: 0, w: 0}
-      maskable: 1
-    shapes2D_Settings:
-      monoBeh: {fileID: 0}
-      type: 0
-      raycastTarget: 1
-      preserveAspect: 1
-      raycastPadding: {x: 0, y: 0, z: 0, w: 0}
-      maskable: 1
-    srSettings:
-      monoBeh: {fileID: 0}
-      flipX: 0
-      flipY: 0
-      maskInteraction: 0
-      sortPoint: 0
-      sortingLayer: Default
-      nextOrderStep: 10
-    textMeshSettings:
-      monoBeh: {fileID: 2004948465}
-      autoSize: 1
-      overrideTags: 0
-      wrapping: 1
-      orthographicMode: 1
-      richText: 1
-      raycastTarget: 1
-      parseEscapeCharacters: 1
-      visibleDescender: 1
-      kerning: 1
-      extraPadding: 0
-      overflow: 0
-      horizontalMapping: 0
-      verticalMapping: 0
-      geometrySorting: 0
-      shader: {fileID: 0}
-    textFontsSettings:
-      monoBeh: {fileID: 2004948465}
-      textComponent: 1
-    unityTextSettings:
-      monoBeh: {fileID: 2004948465}
-      bestFit: 1
-      fontLineSpacing: 1
-      horizontalWrapMode: 0
-      verticalWrapMode: 0
-    prefabSettings:
-      monoBeh: {fileID: 2004948465}
-      prefabsPath: Assets\Prefabs
-      textPrefabNameType: 0
-  eventHandlers:
-    monoBeh: {fileID: 2004948465}
-  events:
-    monoBeh: {fileID: 2004948465}
-    onProjectDownloadFail:
-      m_PersistentCalls:
-        m_Calls: []
-    onProjectDownloadStart:
-      m_PersistentCalls:
-        m_Calls: []
-    onProjectDownloaded:
-      m_PersistentCalls:
-        m_Calls: []
-    onImportStart:
-      m_PersistentCalls:
-        m_Calls: []
-    onImportComplete:
-      m_PersistentCalls:
-        m_Calls: []
-    onImportFail:
-      m_PersistentCalls:
-        m_Calls: []
-    onObjectInstantiate:
-      m_PersistentCalls:
-        m_Calls: []
-    onAddComponent:
-      m_PersistentCalls:
-        m_Calls: []
-  ctsController:
-    monoBeh: {fileID: 2004948465}
-  prefabCreator:
-    monoBeh: {fileID: 0}
-    pstructs: []
-    syncHelpers: []
-  prefabUpdater:
-    monoBeh: {fileID: 0}
-  folderCreator:
-    monoBeh: {fileID: 2004948465}
-  inspectorDrawer:
-    monoBeh: {fileID: 2004948465}
-    _selectableHambItems:
-    - id: 0:0
-      fade:
-        m_Target: 1
-        speed: 4
-        m_Value: 1
-      checkBoxValue:
-        _value: 1
-        _temp: 1
-      guiContent:
-        m_Text: FRAMES TO IMPORT (1/1)
-        m_Image: {fileID: 0}
-        m_Tooltip: 
-      buttonGuiContent:
-        m_Text: 
-        m_Image: {fileID: 0}
-        m_Tooltip: 
-    - id: 0:1
-      fade:
-        m_Target: 0
-        speed: 4
-        m_Value: 0
-      checkBoxValue:
-        _value: 1
-        _temp: 1
-      guiContent:
-        m_Text: Page 1 (1/1)
-        m_Image: {fileID: 0}
-        m_Tooltip: 
-      buttonGuiContent:
-        m_Text: 
-        m_Image: {fileID: 0}
-        m_Tooltip: 
-    _document:
-      id: 0:0
-      name: Document
-      type: 1
-      selected: 1
-      childs:
-      - rid: 3377579152575299584
-  authorizer:
-    monoBeh: {fileID: 2004948465}
-    _selectedTableIndex: 0
-    _options:
-    - m_Text: WJ C (DEV_ChoWoojeong) | cwj19941219@gmail.com
-      m_Image: {fileID: 0}
-      m_Tooltip: 
-  requestSender:
-    monoBeh: {fileID: 2004948465}
-    pbarProgress: 0
-    pbarBytes: 0
-    _requestCount: 0
-    _timeoutActive: 0
-    _remainingTime: 0
-  hashGenerator:
-    monoBeh: {fileID: 2004948465}
-  nameHumanizer:
-    monoBeh: {fileID: 2004948465}
-  fontDownloader:
-    monoBeh: {fileID: 2004948465}
-    tmpDownloader:
-      monoBeh: {fileID: 2004948465}
-      samplingPointSize: 90
-      atlasPadding: 5
-      renderMode: 4165
-      atlasWidth: 512
-      atlasHeight: 512
-      atlasPopulationMode: 1
-      enableMultiAtlasSupport: 1
-      unityTmpFonts:
-        missing: []
-        existing: []
-    ttfDownloader:
-      monoBeh: {fileID: 0}
-    gFontsApi:
-      monoBeh: {fileID: 2004948465}
-      fontSubsets: 1
-  fontLoader:
-    monoBeh: {fileID: 2004948465}
-    ttfFontsPath: Assets/Fonts/Ttf
-    tmpFontsPath: Assets/Fonts/Sdf
-    ttfFonts: []
-    tmpFonts: []
-  graphicHelpers:
-    monoBeh: {fileID: 2004948465}
-  tagSetter:
-    monoBeh: {fileID: 2004948465}
-  spriteProcessor:
-    monoBeh: {fileID: 2004948465}
-  tools:
-    monoBeh: {fileID: 2004948465}
-    needShowRateMe: 1
-  nameSetter:
-    monoBeh: {fileID: 2004948465}
-  syncHelper:
-    monoBeh: {fileID: 2004948465}
-  transformSetter:
-    monoBeh: {fileID: 2004948465}
-  currentProject:
-    monoBeh: {fileID: 2004948465}
-    lastImportedFrames: []
-    localPrefabs: []
-    projectName: dam
-  spriteGenerator:
-    monoBeh: {fileID: 2004948465}
-    rectTransform: {fileID: 0}
-    meshRenderer: {fileID: 0}
-    meshFilter: {fileID: 0}
-    camera: {fileID: 0}
-  spriteColorizer:
-    monoBeh: {fileID: 2004948465}
-  spritePathSetter:
-    monoBeh: {fileID: 2004948465}
-  spriteDownloader:
-    monoBeh: {fileID: 2004948465}
-  spriteSlicer:
-    monoBeh: {fileID: 2004948465}
-  preImportDataCreator:
-    monoBeh: {fileID: 0}
-  guid: 205a96f5
-  references:
-    version: 2
-    RefIds:
-    - rid: 3377579152575299584
-      type: {class: SelectableFObject, ns: DA_Assets.FCU, asm: DA_Assets.FCU}
-      data:
-        id: 0:1
-        name: Page 1
-        type: 2
-        selected: 1
-        childs:
-        - rid: 3377579152575299585
-    - rid: 3377579152575299585
-      type: {class: SelectableFObject, ns: DA_Assets.FCU, asm: DA_Assets.FCU}
-      data:
-        id: 1:2
-        name: main
-        type: 3
-        selected: 1
-        childs: []
 --- !u!224 &2004948466
 RectTransform:
   m_ObjectHideFlags: 0
@@ -49911,7 +49507,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 698702793}
-  - {fileID: 2063075966}
-  - {fileID: 2004948466}
   - {fileID: 1446037034}
   - {fileID: 1456388575}
+  - {fileID: 2063075966}
+  - {fileID: 2004948466}
