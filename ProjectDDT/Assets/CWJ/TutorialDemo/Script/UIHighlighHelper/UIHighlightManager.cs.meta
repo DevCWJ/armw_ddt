@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 44b677f4dbc5f624dbcfa1fd702e7763
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fadeManager: {instanceID: 0}
+  - cursorRectTrf: {fileID: 8026558879992992415, guid: caaf87cce88deac428adf12ef0a8f66c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
